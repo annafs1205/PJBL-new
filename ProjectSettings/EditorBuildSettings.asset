@@ -1,0 +1,333 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Halaman Awal.unity
+    guid: 239bc3fbf333fa64eb73ba15bb7d0664
+  - enabled: 1
+    path: Assets/Scenes/Setting.unity
+    guid: 5cf9247e91c34884ca4c05e018611cb8
+  - enabled: 1
+    path: Assets/Scenes/selamat datang.unity
+    guid: 4ba845f28a60e1c489c3a03fcaa9bfea
+  - enabled: 1
+    path: Assets/Scenes/login.unity
+    guid: b8f96a4f41e3cf046bd84336093e7472
+  - enabled: 1
+    path: Assets/Scenes/sign up.unity
+    guid: fb44b4ee457ee7c4fad334cfb1d0e50d
+  - enabled: 1
+    path: Assets/Scenes/Buat Akun.unity
+    guid: 6a2d3080d27abc9408b9c34a7a5a37f4
+  - enabled: 1
+    path: Assets/Scenes/loadinggeser.unity
+    guid: 4751d59aac0355545aa2813837f80514
+  - enabled: 1
+    path: Assets/Scenes/homeguest.unity
+    guid: f32cb547be821294883738575d8e90c1
+  - enabled: 1
+    path: Assets/Scenes/homeaneh.unity
+    guid: 172cdd7329dfd7141b4eb03c4798b6b1
+  - enabled: 1
+    path: Assets/Scenes/editprofilguest.unity
+    guid: 76308a50df2214544b9b92ea4070d668
+  - enabled: 1
+    path: Assets/Scenes/settingguest.unity
+    guid: dde8cb1bad6c8744c966416344d601a0
+  - enabled: 1
+    path: Assets/Scenes/loginguest.unity
+    guid: 6779eb007258424419847fd0f755e702
+  - enabled: 1
+    path: Assets/Scenes/signupguest.unity
+    guid: fee1232b88685d04c95f2b944be8c761
+  - enabled: 1
+    path: Assets/Scenes/libraryguest.unity
+    guid: e812c7cf913cf06408b94e7e657dbe18
+  - enabled: 1
+    path: Assets/Scenes/petanqueguest.unity
+    guid: 2f99f9b66ace8ab4081c239715f3d31d
+  - enabled: 1
+    path: Assets/Scenes/loginlibrary.unity
+    guid: 60c1ef848be145347b2a81a5b93c3c10
+  - enabled: 1
+    path: Assets/Scenes/signuplibrary.unity
+    guid: 2799d6dd45540f1499f07c568869390d
+  - enabled: 1
+    path: Assets/Scenes/ransa.unity
+    guid: 6c7f950324936ab438705c05e28a3b5b
+  - enabled: 1
+    path: Assets/Scenes/roy.unity
+    guid: 11694f55462cd694aaf1375eadf736ec
+  - enabled: 1
+    path: Assets/Scenes/selesaimain.unity
+    guid: c6599cc49e87d4449b21b5c4664ab13c
+  - enabled: 1
+    path: Assets/Scenes/selesaimainallabout.unity
+    guid: 03244ff01f3701e40bf08777b314b556
+  - enabled: 1
+    path: Assets/Scenes/selesaimainbnrslh.unity
+    guid: f9d4052ac56d90f4dac38cc97dfeb280
+  - enabled: 1
+    path: Assets/Scenes/selesaimaintebakgambar.unity
+    guid: efebf4b7333f93e4192e9de47bd023f3
+  - enabled: 1
+    path: Assets/Scenes/settinguser.unity
+    guid: 73e33e6335275904db084fef09ad218a
+  - enabled: 1
+    path: Assets/Scenes/tebakgambar1.unity
+    guid: fc5154cded0f86140ba263e8796525ef
+  - enabled: 1
+    path: Assets/Scenes/tebakgambar1bnr.unity
+    guid: 505a91c2b42d1de489cd810eda8edf26
+  - enabled: 1
+    path: Assets/Scenes/tebakgambar1slh1.unity
+    guid: a83cf69a30b7088438beaa20c6b7103d
+  - enabled: 1
+    path: Assets/Scenes/tebakgambar1slh2.unity
+    guid: a65b9f42d7506a246aaebc9c0c27b1f6
+  - enabled: 1
+    path: Assets/Scenes/tebakgambar2.unity
+    guid: 8eb35f6d0bc491f4892b1445b3529459
+  - enabled: 1
+    path: Assets/Scenes/tebakgambar2bnr.unity
+    guid: 479114db1cc132a41872cec752a1b25f
+  - enabled: 1
+    path: Assets/Scenes/tebakgambar2slh1.unity
+    guid: 272e430941ba59e4aa9d969e1658f9f6
+  - enabled: 1
+    path: Assets/Scenes/tebakgambar3.unity
+    guid: 065e2ed2c24e17c4ebf18eafc970a597
+  - enabled: 1
+    path: Assets/Scenes/tebakgambar3bnr1.unity
+    guid: 003064a4184c4ff45bbb5d9611549433
+  - enabled: 1
+    path: Assets/Scenes/tebakgambar3slh1.unity
+    guid: eef16edf12ab8354cb1a2c0b6449344f
+  - enabled: 1
+    path: Assets/Scenes/tebakgambar3slh2.unity
+    guid: e3575201f4927754ca01b1054f98a8cc
+  - enabled: 1
+    path: Assets/Scenes/tebakgambarslh2.unity
+    guid: da5effbda0280b443ad3e6528d325fcf
+  - enabled: 1
+    path: Assets/Scenes/vid1.unity
+    guid: 10c149a8ec117874d8595f3565644e6c
+  - enabled: 1
+    path: Assets/Scenes/vid2.unity
+    guid: 30bc13c43bf49e94ca58d7a0aa8fa34e
+  - enabled: 1
+    path: Assets/Scenes/vid3.unity
+    guid: 9c68eb947a6186641a1348aa71ece10f
+  - enabled: 1
+    path: Assets/Scenes/vid4.unity
+    guid: d918b811ff9f7954785c431aab22f6c8
+  - enabled: 1
+    path: Assets/Scenes/vid5.unity
+    guid: ab9b040e69100bb4fa22d0822316942e
+  - enabled: 1
+    path: Assets/Scenes/vid6.unity
+    guid: 6d37a2f91780b5942a2a618eb3791148
+  - enabled: 1
+    path: Assets/Scenes/vid7.unity
+    guid: c9eeae08dda4a4d4aa194986f704c140
+  - enabled: 1
+    path: Assets/Scenes/vid8.unity
+    guid: 1a47051fc80c4c846947d24ae9749b57
+  - enabled: 1
+    path: Assets/Scenes/vidguest1.unity
+    guid: e190b37df12c08840aedbdaa7b39eb90
+  - enabled: 1
+    path: Assets/Scenes/vidguest2.unity
+    guid: b59d93b4b792d86429f516c426997bd6
+  - enabled: 1
+    path: Assets/Scenes/vidguest3.unity
+    guid: da9993f6b57276248add898b2a49ac06
+  - enabled: 1
+    path: Assets/Scenes/vidguest4.unity
+    guid: 4ca9144485b383c44b212e95591f0858
+  - enabled: 1
+    path: Assets/Scenes/vidguest5.unity
+    guid: 2f5c9bb41ac3bf84a89e7ce59d8e2091
+  - enabled: 1
+    path: Assets/Scenes/vidguest6.unity
+    guid: 581f0bdd18daa454e816703d5e01cb5d
+  - enabled: 1
+    path: Assets/Scenes/vidguest7.unity
+    guid: 73cdce1c5c7216043adc2b85764c9526
+  - enabled: 1
+    path: Assets/Scenes/vidguest8.unity
+    guid: 075bfdb491091854a9e5c1d96030b63e
+  - enabled: 1
+    path: Assets/Scenes/allabout.unity
+    guid: 3951394709af94a47b39735c1827d2cd
+  - enabled: 1
+    path: Assets/Scenes/allabout2.unity
+    guid: a275f753d5a47d74db5ab6cc43d9cb50
+  - enabled: 1
+    path: Assets/Scenes/allabout3.unity
+    guid: caf47bd991483984898f1153e685907b
+  - enabled: 1
+    path: Assets/Scenes/allaboutboule.unity
+    guid: 4aa4d534048251d40bb80189036744f2
+  - enabled: 1
+    path: Assets/Scenes/allaboutcircle.unity
+    guid: 2c6dbeb76be826a43a3f0ee166dcba6e
+  - enabled: 1
+    path: Assets/Scenes/allaboutjack.unity
+    guid: 8b0ab147da7b6e2488bd8fd00efc46c8
+  - enabled: 1
+    path: Assets/Scenes/allaboutjwb.unity
+    guid: 755966293d88fc04a875bac074602986
+  - enabled: 1
+    path: Assets/Scenes/allaboutjwb2.unity
+    guid: 152aef7a90bc7ff479f0c68d845dfb00
+  - enabled: 1
+    path: Assets/Scenes/allaboutjwb2 1.unity
+    guid: 57a9e2d28df1a6341aff70868f6374b4
+  - enabled: 1
+    path: Assets/Scenes/allaboutjwb3.unity
+    guid: d68171fc2a43b624589ae77829b8ef5b
+  - enabled: 1
+    path: Assets/Scenes/bnrslh.unity
+    guid: cf114317a5f1f5e48a0ea2f3985cc76d
+  - enabled: 1
+    path: Assets/Scenes/bnrslh2.unity
+    guid: 74a75e04ce187de408665fc82fc440cb
+  - enabled: 1
+    path: Assets/Scenes/bnrslhbnr.unity
+    guid: dc30000e46dde39439ddcbb36cd63e55
+  - enabled: 1
+    path: Assets/Scenes/bnrslhbnr2.unity
+    guid: 2c3f4dc4a93d8b742bd01b8efc5e3f2d
+  - enabled: 1
+    path: Assets/Scenes/bnrslhslh.unity
+    guid: ab4c197b7e3e57f48a25f7717fa6ae30
+  - enabled: 1
+    path: Assets/Scenes/bnrslhslh2.unity
+    guid: d651be56b53af2740801ddd43bb425f9
+  - enabled: 1
+    path: Assets/Scenes/carihilangsoal.unity
+    guid: ad48847c7257e2e4686a669b35f0b069
+  - enabled: 1
+    path: Assets/Scenes/carihilangsoal2.unity
+    guid: 0cfabd56167ebbf4a92deeebbf93c870
+  - enabled: 1
+    path: Assets/Scenes/carihilangsoal3.unity
+    guid: 0c5ece62fd29e33428abe95745df78f3
+  - enabled: 1
+    path: Assets/Scenes/carihilangsoal4.unity
+    guid: d66985cbf538fe149b5b00635cf08ce7
+  - enabled: 1
+    path: Assets/Scenes/carihilangsoal5.unity
+    guid: e0dcf1fd970870b48905b973f0c3227d
+  - enabled: 1
+    path: Assets/Scenes/chooseavatar.unity
+    guid: 37e3c192be45219418ea108717a35f91
+  - enabled: 1
+    path: Assets/Scenes/editprofil.unity
+    guid: 7b0867905995b66468a5fa33e4bdc2ae
+  - enabled: 1
+    path: Assets/Scenes/editprofiluser.unity
+    guid: b9d2a0e43b4f41340845a0266e88d8ab
+  - enabled: 1
+    path: Assets/Scenes/eka.unity
+    guid: d441faf0c2b1a2a47ab78d21e875e278
+  - enabled: 1
+    path: Assets/Scenes/hilangboule.unity
+    guid: c235f83221787f943b4ad82b1cd59be4
+  - enabled: 1
+    path: Assets/Scenes/hilangboulebnr.unity
+    guid: 54ccf6370c3f2a946803cd93239f7c01
+  - enabled: 1
+    path: Assets/Scenes/hilangbouleslh1.unity
+    guid: 8281678c2c629db4fa37c3332d47c415
+  - enabled: 1
+    path: Assets/Scenes/hilangbouleslh2.unity
+    guid: b15773caca8a3f84ba992fe4022000ac
+  - enabled: 1
+    path: Assets/Scenes/hilangbouleslh3.unity
+    guid: 5ae78eeebc9563d4bbcf80c1a1d1b1b8
+  - enabled: 1
+    path: Assets/Scenes/hilanghanduk.unity
+    guid: e9b845ccedbcaaf44ae5b4f0749deaa3
+  - enabled: 1
+    path: Assets/Scenes/hilanghandukbnr.unity
+    guid: 725b5ec8803468144b6c1243037e04e7
+  - enabled: 1
+    path: Assets/Scenes/hilanghandukslh1.unity
+    guid: ad16d10b3b6908f4f9566c5e55e317a8
+  - enabled: 1
+    path: Assets/Scenes/hilanghandukslh2.unity
+    guid: bced490941b35394a922481f288e2427
+  - enabled: 1
+    path: Assets/Scenes/hilanghandukslh3.unity
+    guid: d566c327c3ba29f468fa71061d6c8521
+  - enabled: 1
+    path: Assets/Scenes/hilangholalop.unity
+    guid: 9a4cead79037c3041a65bc007fe848ef
+  - enabled: 1
+    path: Assets/Scenes/hilangholalopbnr.unity
+    guid: 0074c0c5e05435c4fbd0d6c410d7d00b
+  - enabled: 1
+    path: Assets/Scenes/hilangholalopslh1.unity
+    guid: 41818a9d07f129c45810c938a4218887
+  - enabled: 1
+    path: Assets/Scenes/hilangholalopslh2.unity
+    guid: a9887b164023c7d4584bfdba0d922f27
+  - enabled: 1
+    path: Assets/Scenes/hilangholalopslh3.unity
+    guid: 7663e4477d73dcb4cbeccb3156299148
+  - enabled: 1
+    path: Assets/Scenes/hilangjack.unity
+    guid: 65cf4b3ddc4881841a58284d09670658
+  - enabled: 1
+    path: Assets/Scenes/hilangjackbnr.unity
+    guid: 26c4e2e98bf8e7843bc0e5949e34c367
+  - enabled: 1
+    path: Assets/Scenes/hilangjackslh1.unity
+    guid: 9955c56a0029a9c4dbcaa366b9eaf0a6
+  - enabled: 1
+    path: Assets/Scenes/hilangjackslh2.unity
+    guid: 6c2d278f80022b441872f700c73e496c
+  - enabled: 1
+    path: Assets/Scenes/hilangjackslh3.unity
+    guid: e061df40382b56c48908f231b86704e8
+  - enabled: 1
+    path: Assets/Scenes/hilangukuran.unity
+    guid: 96c1b6075d4a48b4691b20a7c25faa36
+  - enabled: 1
+    path: Assets/Scenes/hilangukuranbnr.unity
+    guid: 18f71e6d527d80a4392297e437afb811
+  - enabled: 1
+    path: Assets/Scenes/hilangukuranslh1.unity
+    guid: 390f228c98b55144aa5879a2de9c070a
+  - enabled: 1
+    path: Assets/Scenes/hilangukuranslh2.unity
+    guid: f0b2ab1575241c24d9045cd4179fabc9
+  - enabled: 1
+    path: Assets/Scenes/hilangukuranslh3.unity
+    guid: 7d594cb659b4af240968d45adfd199f1
+  - enabled: 1
+    path: Assets/Scenes/mulaiallabout.unity
+    guid: 2b570ba52da07194995e486a0fd89b1f
+  - enabled: 1
+    path: Assets/Scenes/mulaibnrslh.unity
+    guid: de1215eeb593b7c41a1884d1bff23e77
+  - enabled: 1
+    path: Assets/Scenes/mulaicarihilang.unity
+    guid: 147c46e3eceea514ab0d71318d79e56e
+  - enabled: 1
+    path: Assets/Scenes/mulaitebakgambar.unity
+    guid: a2e9e348fbc10044692de7bc97b94a3d
+  - enabled: 1
+    path: Assets/Scenes/homeuser.unity
+    guid: 8a69a9bb8e007bf4ab67c23524a92220
+  m_configObjects: {}
+  m_UseUCBPForAssetBundles: 0
